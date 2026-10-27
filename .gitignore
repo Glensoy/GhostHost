@@ -1,0 +1,7 @@
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore VS Code local workspace settings (optional)
+.vscode/
