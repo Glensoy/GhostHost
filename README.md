@@ -13,6 +13,12 @@ Managing website blocks manually through the Windows `hosts` file (`C:\Windows\S
 
 **Website Blocking Manager** was built during an IT Support internship to streamline this workflow. It provides a safe, menu-driven interface to add, remove, and manage blocked domains while automatically handling administrative permissions, file backups, and DNS cache flushing.
 
+## 📸 Preview
+
+Here is what the interactive CLI menu looks like in action:
+
+![Website Blocking Manager CLI Menu](images/menu-preview.png)
+
 ---
 
 ## ✨ Key Features
